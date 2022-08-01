@@ -26,6 +26,8 @@ To correctly install this project install zip folder and extract. Run npm i in c
 
 ## Usage
 To use this project run node index.js in command line and click on the link produced or click on the heroku link below to access public app. Once in application, click get started button. From there type in title and text of not. Once completed click the save icon in the top right. To add another note click the plus icon in the top right. To delete, click the red trash can button next to each note on the left hand side of the application. To view a previous note, click on the title of the desired note. Link for heroku app: [View Here](https://note-taker-ethan.herokuapp.com/)  
+![Target website look](./mockup/home.PNG)
+![Target website look](./mockup/note.PNG)
 
 ## Contributing 
 To contribute to this project contact me directly with desired changes via email 
